@@ -1,2 +1,0 @@
-getgate.github.com
-==================
